@@ -7,7 +7,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
-## Algorithm
+## Algorithm:
 1. Import the required libraries.
 2. Load the dataset.
 3. Define X and Y array.
@@ -119,14 +119,23 @@ np.mean(predict(res.x,X)==y)
 ## Output:
 
 ![001](https://user-images.githubusercontent.com/94747031/199067370-21f6e068-3851-4596-bad3-35dc02d079a6.png)
+
 ![002](https://user-images.githubusercontent.com/94747031/199067368-23904c41-d2d1-4e62-83d0-29a65b810abe.png)
+
 ![003](https://user-images.githubusercontent.com/94747031/199067364-67b76106-9b8d-4758-a093-ec7e7f4b2d32.png)
+
 ![004](https://user-images.githubusercontent.com/94747031/199067359-63750fd2-98e8-438d-a32c-ae84cb1d27e4.png)
+
 ![005](https://user-images.githubusercontent.com/94747031/199067356-69f818c1-d425-48e8-beb3-281e00b6ecba.png)
+
 ![006](https://user-images.githubusercontent.com/94747031/199067352-588a14f1-b111-4fc6-801d-acb4fd847520.png)
+
 ![007](https://user-images.githubusercontent.com/94747031/199067351-3e334116-ed7b-441b-93e6-20737be81d24.png)
+
 ![008](https://user-images.githubusercontent.com/94747031/199067346-56d58684-54aa-478a-98ac-f9841f1b846e.png)
+
 ![009](https://user-images.githubusercontent.com/94747031/199067342-fbdbcd76-c1d0-4fb3-95cb-d847e85e0d51.png)
+
 ![010](https://user-images.githubusercontent.com/94747031/199067377-9f1bdbbb-7868-4b11-8bed-f98680735040.png)
 
 ## Result:
